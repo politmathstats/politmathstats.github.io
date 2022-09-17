@@ -25,5 +25,5 @@ output:
 
 `r  shiny::icon("scroll")` <a href="tvims2_seminar1_2022.pdf" title=>Семинар 1</a>
 
-`r  shiny::icon("pencil")` --  <a href="tvims2_hw1_2022.pdf" title=>Домашнее задание 1</a>
+`r  shiny::icon("pencil")` <a href="tvims2_hw1_2022.pdf" title=>Домашнее задание 1</a>
 
