@@ -1,0 +1,20 @@
+output_dir: "."
+navbar:
+  title: "ТВиМС, 2022"
+  left:
+    - text: "Welcome"
+      href: index.html
+    - text: "Материалы"
+      href: plans.html
+    - text: "Важные даты"
+      href: deadlines.html
+    - text: "Успехи"
+      href: progress.html
+  right:
+    - text: "Help! Напиши Дарье"
+      icon: fa-envelope-o
+      href: mailto:darysalnikova@yandex.ru                    # CHANGE HERE
+ 
+output:
+  html_document:
+    theme: united

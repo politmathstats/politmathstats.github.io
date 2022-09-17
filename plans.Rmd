@@ -1,0 +1,29 @@
+---
+title: "Материалы"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: united
+---
+# Теория вероятностей и математическая статистика
+
+### Обозначения
+
+`r  shiny::icon("scroll")` -- семинарский листочек / решение 
+
+`r  shiny::icon("readme")` -- Reading
+
+`r  shiny::icon("desktop")` -- материалы для практикума (данные, код)
+
+`r  shiny::icon("pencil")` -- задание
+ 
+## Занятие 1
+ 
+Тема: повторение, дискретные сл.в. и их распределения, таблица совместного распределения, условное мат. ожидание
+
+`r  shiny::icon("scroll")` <a href="tvims2_seminar1_2022.pdf" title=>Семинар 1</a>
+
+`r  shiny::icon("pencil")` --  <a href="tvims2_hw1_2022.pdf" title=>Домашнее задание 1</a>
+
