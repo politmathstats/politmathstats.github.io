@@ -9,6 +9,10 @@ output:
 ---
 # Теория вероятностей и математическая статистика
 
+<a href="https://drive.google.com/drive/folders/14o2pmWw_KsUzGaYspwqJB20ck_Ag_yfW?usp=sharing" title=>Ссылка на общую папку с литературой</a>  
+Папка будет пополняться в процессе изучения материала.
+
+
 ### Обозначения
 
 `r  shiny::icon("scroll")` -- семинарский листочек / решение 
