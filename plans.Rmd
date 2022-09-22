@@ -31,3 +31,14 @@ output:
 
 `r  shiny::icon("pencil")` <a href="tvims2_hw1_2022.pdf" title=>Домашнее задание 1</a>
 
+## Занятие 2
+ 
+Тема: условное мат. ожидание, ATE (average treatment effect), распределение Пуассона
+
+`r  shiny::icon("scroll")` <a href="tvims2_seminar2_2022.pdf" title=>Семинар 2</a>
+
+`r  shiny::icon("pencil")` <a href="tvims2_hw2_2022.pdf" title=>Домашнее задание 2</a>
+
+`r  shiny::icon("readme")` Mayer, 2011; Pianzola et al., 2019
+
+
