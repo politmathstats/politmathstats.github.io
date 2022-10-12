@@ -53,4 +53,23 @@ output:
 
 `r  shiny::icon("film")` <a href="https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/resources/clip-1-introduction-to-definite-integrals/" title=>Introduction to Definite Integrals</a>  
 
+## Занятие 4
+
+Тема: экспоненциальное распределение
+
+`r  shiny::icon("scroll")` <a href="tvims2_bonus_solution.pdf" title=>Решение бонусных заданий</a>
+
+## Занятие 5
+
+Тема: проверочная работа, введение в MLE
+
+Домашнее задание к 23 октября:
+
+`r  shiny::icon("pencil")` <a href="tvims2_hw.pdf" title=>ДЗ 1 (сдаваемое)</a>
+
+
+
+
+
+
 
