@@ -63,12 +63,33 @@ output:
 
 Тема: проверочная работа, введение в MLE
 
+`r  shiny::icon("scroll")` <a href="tvims2_seminar4_2022.pdf" title=>Семинар 4</a>
+
 Домашнее задание к 23 октября:
 
 `r  shiny::icon("pencil")` <a href="tvims2_hw.pdf" title=>ДЗ 1 (сдаваемое)</a>
 
+## Занятие 6
 
+Тема: MLE
 
+`r  shiny::icon("scroll")` <a href="tvims2_seminar5_6_2022.pdf" title=>Семинары 5-6 </a>
+
+## Занятие 7
+
+Тема: MLE
+
+## Занятие 8
+
+Тема: хи-квадрат, связь с нормальным распределением, доверительный интервал для дисперсии
+
+`r  shiny::icon("scroll")` <a href="tvims2_seminar7_2022.pdf" title=>Семинар 7 </a>
+
+Домашнее задание: подготовиться к контрольной работе
+
+<a href="tvims2_midterm_LO_2022.pdf" title=>Learning outcomes</a> 
+
+<a href="tvims2_demo_midterm_2022.pdf" title=>Демо-версия</a> 
 
 
 
