@@ -91,6 +91,15 @@ output:
 
 <a href="tvims2_demo_midterm_2022.pdf" title=>Демо-версия</a> 
 
+## Занятие 9
+
+Тема: проверка гипотезы о равенстве дисперсий
+
+`r  shiny::icon("scroll")` <a href="tvims2_seminar8_9_2022.pdf" title=>Семинары 8-9 </a>
+
+Домашнее задание к 4 декабря:
+
+`r  shiny::icon("pencil")` <a href="tvims2_hw2.pdf" title=>ДЗ 2 (сдаваемое)</a>
 
 
 
