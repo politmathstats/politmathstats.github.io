@@ -9,3 +9,5 @@ title: "Важные даты"
 23 октября | Домашнее задание 1 (сдаваемое) | <a href="tvims2_hw.pdf" title=>ДЗ 1 (сдаваемое)</a> 
 15 ноября | Контрольная работа | <a href="tvims2_midterm_LO_2022.pdf" title=>Learning outcomes</a>; <a href="tvims2_demo_midterm_2022.pdf" title=>Демо-версия</a> 
 4 декабря | Домашнее задание 2 (сдаваемое) | <a href="tvims2_hw2.pdf" title=>ДЗ 2 (сдаваемое)</a>
+11 декабря | Домашнее задание 3 (бонусное) | <a href="tvims2_bonus1_2022.pdf" title=>ДЗ 3 (бонусное)</a>
+18 декабря | Домашнее задание 4 (бонусное) | <a href="tvims2_bonus2_2022.pdf" title=>ДЗ 4 (бонусное)</a>
