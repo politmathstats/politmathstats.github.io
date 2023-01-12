@@ -102,4 +102,25 @@ output:
 `r  shiny::icon("pencil")` <a href="tvims2_hw2.pdf" title=>ДЗ 2 (сдаваемое)</a>
 
 
+# Введение в многомерный статистический анализ
+
+### Обозначения
+
+`r  shiny::icon("scroll")` -- семинарский листочек / решение 
+
+`r  shiny::icon("readme")` -- Reading
+
+`r  shiny::icon("desktop")` -- материалы для практикума (данные, код)
+
+`r  shiny::icon("pencil")` -- задание
+
+`r  shiny::icon("film")` -- видео-материал
+ 
+## Занятие 1
+ 
+Тема: организационные вопросы, введение в кластерный анализ
+
+`r  shiny::icon("scroll")` <a href="tvims3_intro.pdf" title=>Организационная презентация</a>
+
+
 
