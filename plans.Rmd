@@ -104,6 +104,9 @@ output:
 
 # Введение в многомерный статистический анализ
 
+<a href="https://drive.google.com/drive/folders/1egbTlUbPNY87aTL6sxE2NH7b5LfHYX_2?usp=share_link" title=>Ссылка на общую папку с литературой</a>  
+Папка будет пополняться в процессе изучения материала.
+
 ### Обозначения
 
 `r  shiny::icon("scroll")` -- семинарский листочек / решение 
@@ -118,9 +121,18 @@ output:
  
 ## Занятие 1
  
-Тема: организационные вопросы, введение в кластерный анализ
+Тема: Организационные вопросы. Иерархический кластерный анализ: методы кластеризации количественных данных
 
 `r  shiny::icon("scroll")` <a href="tvims3_intro.pdf" title=>Организационная презентация</a>
+
+`r  shiny::icon("scroll")` <a href="CA_lecture01.pdf" title=>Конспект лекции</a>
+
+`r  shiny::icon("scroll")` <a href="CA_seminar01.pdf" title=>Семинарский листок</a>
+
+`r  shiny::icon("scroll")` <a href="CA_seminar01-solutions.pdf" title=>Решение</a>
+
+`r  shiny::icon("readme")` глава из книги Джеймс Г. и др. «Введение в статистическое обучение с примерами на языке R» (разделы 10.3.2-10.3.3)
+
 
 
 
