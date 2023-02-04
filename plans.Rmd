@@ -146,3 +146,19 @@ output:
 `r  shiny::icon("desktop")` <a href="CLUSTER02.R" title=>CLUSTER02.R</a> ; `r  shiny::icon("desktop")` <a href="CLUSTER02.Rmd" title=>CLUSTER02.Rmd</a>; `r  shiny::icon("desktop")` <a href="CLUSTER02.pdf" title=>CLUSTER02.pdf</a>
 
 `r  shiny::icon("desktop")` <a href="https://disk.yandex.ru/d/JnsdeBY0ABC0Xg" title=>Данные flats</a>
+
+## Занятие 3
+ 
+Тема: кластерный анализ (продолжение)
+
+## Занятие 4
+ 
+Тема: Парная линейная регрессия. Выведение МНК-оценок
+
+`r  shiny::icon("scroll")` <a href="tvims3_reg_lecture1.pdf" title=>Конспект лекции</a>
+
+`r  shiny::icon("scroll")` <a href="tvims3_reg_seminar1.pdf" title=>Семинарский листок</a>
+
+`r  shiny::icon("scroll")` <a href="tvims3_reg_hw1.pdf" title=>Домашнее задание к семинару 10 февраля</a>
+
+`r  shiny::icon("film")` https://www.youtube.com/watch?v=WwW8y5dZs80&list=PL-uRhZ_p-BM5ovNRg-G6hDib27OCvcyW8 title=>Mastering Econometrics with Joshua Angrist</a>
