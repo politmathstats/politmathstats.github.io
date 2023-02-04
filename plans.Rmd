@@ -161,4 +161,4 @@ output:
 
 `r  shiny::icon("scroll")` <a href="tvims3_reg_hw1.pdf" title=>Домашнее задание к семинару 10 февраля</a>
 
-`r  shiny::icon("film")` https://www.youtube.com/watch?v=WwW8y5dZs80&list=PL-uRhZ_p-BM5ovNRg-G6hDib27OCvcyW8 title=>Mastering Econometrics with Joshua Angrist</a>
+`r  shiny::icon("film")` <a href="https://www.youtube.com/watch?v=WwW8y5dZs80&list=PL-uRhZ_p-BM5ovNRg-G6hDib27OCvcyW8" title=>Mastering Econometrics with Joshua Angrist</a>
