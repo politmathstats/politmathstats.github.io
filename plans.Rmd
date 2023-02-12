@@ -169,6 +169,7 @@ output:
 
 `r  shiny::icon("desktop")` <a href="tvims3_reg_lab1.html" title=>Разбор практикума в R</a> 
 
+`r  shiny::icon("scroll")` <a href="tvims3_reg_hw2_2023.pdf" title=>Сдаваемое ДЗ (до 20 февраля включительно)</a>
 
 
 
