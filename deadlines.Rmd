@@ -16,3 +16,4 @@ title: "Важные даты"
 18 декабря | Домашнее задание 4 (бонусное) | <a href="tvims2_bonus2_2022.pdf" title=>ДЗ 4 (бонусное)</a>
 **Введение в МСА** | |
 1 февраля | Домашнее задание 1 (сдаваемое) | <a href="hw-ca.pdf" title=>hw-ca.pdf</a>; <a href="https://disk.yandex.ru/d/kB2TYnHgrSrfmQ" title=>Данные BaltimoreCrimesAgg</a>
+20 февраля | Домашнее задание 2 (сдаваемое) | <a href="tvims3_reg_hw2_2023.pdf" title=>Условие ДЗ</a>
