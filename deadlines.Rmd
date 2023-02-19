@@ -17,3 +17,4 @@ title: "Важные даты"
 **Введение в МСА** | |
 1 февраля | Домашнее задание 1 (сдаваемое) | <a href="hw-ca.pdf" title=>hw-ca.pdf</a>; <a href="https://disk.yandex.ru/d/kB2TYnHgrSrfmQ" title=>Данные BaltimoreCrimesAgg</a>
 20 февраля | Домашнее задание 2 (сдаваемое) | <a href="tvims3_reg_hw2_2023.pdf" title=>Условие ДЗ</a>
+3 марта | Проверочная работа 1 | <a href="tvims3_reg_LO1.pdf" title=>Learning Outcomes</a>; <a href="tvims3_reg_test1_demo.pdf" title=>Демонстрационная версия</a>
