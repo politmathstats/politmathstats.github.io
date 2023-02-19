@@ -141,9 +141,9 @@ output:
 
 `r  shiny::icon("scroll")` <a href="CA_seminar02-solutions.pdf" title=>Решение</a>
 
-`r  shiny::icon("desktop")` <a href="CLUSTER02.R" title=>CLUSTER02.R</a> ; `r  shiny::icon("desktop")` <a href="CLUSTER02.Rmd" title=>CLUSTER02.Rmd</a>; `r  shiny::icon("desktop")` <a href="CLUSTER02.pdf" title=>CLUSTER02.pdf</a>
+`r  shiny::icon("desktop")` <a href="https://disk.yandex.ru/d/lpvJbnF6WK08xw" title=>Практикум 1</a>
 
-`r  shiny::icon("desktop")` <a href="https://disk.yandex.ru/d/JnsdeBY0ABC0Xg" title=>Данные flats</a>
+`r  shiny::icon("desktop")` <a href="https://disk.yandex.ru/d/WTmeCFqaDWPFaA" title=>Практикум 2</a>
 
 ## Занятие 3
  
