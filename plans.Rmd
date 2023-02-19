@@ -141,8 +141,6 @@ output:
 
 `r  shiny::icon("scroll")` <a href="CA_seminar02-solutions.pdf" title=>Решение</a>
 
-`r  shiny::icon("desktop")` <a href="CLUSTER01.R" title=>CLUSTER01.R</a> ; `r  shiny::icon("desktop")` <a href="CLUSTER01.Rmd" title=>CLUSTER01.Rmd</a>; `r  shiny::icon("desktop")` <a href="CLUSTER01.pdf" title=>CLUSTER01.pdf</a>
-
 `r  shiny::icon("desktop")` <a href="CLUSTER02.R" title=>CLUSTER02.R</a> ; `r  shiny::icon("desktop")` <a href="CLUSTER02.Rmd" title=>CLUSTER02.Rmd</a>; `r  shiny::icon("desktop")` <a href="CLUSTER02.pdf" title=>CLUSTER02.pdf</a>
 
 `r  shiny::icon("desktop")` <a href="https://disk.yandex.ru/d/JnsdeBY0ABC0Xg" title=>Данные flats</a>
