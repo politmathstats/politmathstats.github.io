@@ -205,5 +205,12 @@ output:
 
 `r  shiny::icon("desktop")` <a href="tvims3_reg_lab3.html" title=>Разбор практикума в R</a> 
 
+`r  shiny::icon("scroll")` <a href="tvims3_reg_seminar3.pdf" title=>Семинарский листок</a>
+
+## Занятие 11
+ 
+Тема: Нетипичные наблюдения. Проблемы устойчивости результатов регрессионного анализа
+
+
 
 
