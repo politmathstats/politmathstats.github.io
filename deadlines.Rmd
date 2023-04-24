@@ -20,3 +20,4 @@ title: "Важные даты"
 3 марта | Проверочная работа 1 | <a href="tvims3_reg_LO1.pdf" title=>Learning Outcomes 1</a>; <a href="tvims3_reg_test1_demo.pdf" title=>Демонстрационная версия</a>
 5 апреля | Домашнее задание 3 (сдаваемое) | <a href="tvims3_reg_hw_3.pdf" title=>Условие ДЗ</a>
 14 апреля | Проверочная работа 2 | <a href="tvims3_reg_LO2.pdf" title=>Learning Outcomes 2</a>; <a href="tvims3_demo_test2.pdf" title=>Демонстрационная версия</a>
+28 апреля | Контрольная работа | <a href="tvims3_midterm_LO.pdf" title=>Learning Outcomes</a>
