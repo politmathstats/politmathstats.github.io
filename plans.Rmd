@@ -199,11 +199,17 @@ output:
 
 Тема: Мультиколлинеарность (продолжение, практикум). Гетероскедастичность
 
+`r  shiny::icon("desktop")` <a href="tvims3_lab2.R" title=>Код в R</a> 
+
+`r  shiny::icon("desktop")` <a href="reg_lab2.dta" title=>reg_lab2.dta</a> 
+
 ## Занятие 10
  
 Тема: Гетероскедастичность (продолжение, практикум)
 
-`r  shiny::icon("desktop")` <a href="tvims3_reg_lab3.html" title=>Разбор практикума в R</a> 
+`r  shiny::icon("desktop")` <a href="tvims3_reg_lab3.html" title=>Разбор практикума в R</a>
+
+`r  shiny::icon("desktop")` <a href="tvims3_lab3.R" title=>Код в R</a> 
 
 `r  shiny::icon("scroll")` <a href="tvims3_reg_seminar3.pdf" title=>Семинарский листок</a>
 
@@ -211,9 +217,12 @@ output:
  
 Тема: Нетипичные наблюдения. Проблемы устойчивости результатов регрессионного анализа
 
+`r  shiny::icon("desktop")` <a href="tvims3_lab4.R" title=>Код в R</a> 
+
 ## Занятие 12
  
 Тема: Проверочная работа. Модели с переменными взаимодействия 
+
 
 ## Занятие 13
  
@@ -223,7 +232,7 @@ output:
 
 `r  shiny::icon("scroll")` <a href="tvims3_interactions_solution_2023.pdf" title=>Разбор заданий из семинарского листка</a>
 
-
+`r  shiny::icon("desktop")` <a href="tvims3_lab5.R" title=>Код в R</a> 
 
 
 
