@@ -28,7 +28,7 @@ output:
 
 `r  shiny::icon("scroll")` <a href="ps23_tvims2_intro.pdf" title=>Презентация-введение: о курсе</a>
 
-`r  shiny::icon("scroll")` <a href="ps23_tvims2_seminar1.pdf" title=>Семинар 1</a>
+`r  shiny::icon("scroll")` <a href="ps23_tvims2_seminar_1.pdf" title=>Семинар 1</a>
 
 
 
