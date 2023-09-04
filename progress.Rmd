@@ -7,6 +7,6 @@ output:
     toc_float: true
     theme: united
 ---
-<a href="https://docs.google.com/spreadsheets/d/1bQzR-FGyW_IyWmChCE_xpuReoJLBiAGsTuNoDIS1Jas/edit?usp=sharing" title=>Ведомость Введение в МСА</a>
+<a href="https://docs.google.com/spreadsheets/d/1b87aAXccI0vlvanSpccBNj5AKOyvvnxUKngOWEQ4-n8/edit?usp=sharing" title=>Ведомость ТВиМС</a>
 
 
