@@ -54,7 +54,22 @@ output:
 
 * <a href="ps23_tvims2_hw3.pdf" title=>Домашнее задание 3</a>
 
+## Занятие 4
+ 
+Тема: распределение Пуассона, экспоненциальное распределение
 
+`r  shiny::icon("scroll")` <a href="tvims2_seminar3_2023.pdf" title=>Семинарский лист 3</a>
+
+Домашнее задание: 
+
+`r  shiny::icon("film")` <a href="https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/pages/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/" title=>Single Variable Calculus, Sessions 43 - 45 </a>
+
+
+## Занятие 5
+ 
+Тема: экспоненциальное распределение; метод максимального правдоподобия: введение
+
+`r  shiny::icon("scroll")` <a href="tvims2_seminar4_2023.pdf" title=>Семинарский лист 4</a>
 
 
 
