@@ -75,4 +75,24 @@ output:
 `r  shiny::icon("scroll")` <a href="tvims2_seminar4_2023.pdf" title=>Семинарский лист 4</a>
 
 
+## Занятие 6
+ 
+Тема: проверочная работа, метод максимального правдоподобия: продолжение
+
+## Занятие 7
+ 
+Тема: метод максимального правдоподобия: продолжение
+
+`r  shiny::icon("scroll")` <a href="tvims2_seminar5_2023.pdf" title=>Семинарский лист 5</a>
+
+## Занятие 8
+ 
+Тема: распределение хи-квадрат
+
+`r  shiny::icon("scroll")` <a href="tvims2_seminar6_2023.pdf" title=>Семинарский лист 6</a>
+
+`r  shiny::icon("scroll")` <a href="tvims2_hw6_2023.pdf" title=>Домашнее задание (для тренировки)</a>
+
+
+
 
