@@ -9,4 +9,4 @@ title: "Важные даты"
 22 октября | Домашнее задание 1 (бонусное) | <a href="tvims2_hw1_bonus_2023.pdf" title=>Условие бонусного ДЗ 1</a>; <a href="tvims2_bonus1_solution_2023.pdf" title=>Решение бонусного ДЗ 1</a>
 14 ноября | Контрольная работа | <a href="tvims2_midterm_LO.pdf" title=>Learning outcomes</a>; <a href="tvims2_demo_midterm_2023.pdf" title=>Демо-версия</a>
 11 декабря | Домашнее задание 2 (обязательное) | <a href="tvims2_hw2_2023.pdf" title=>Условие ДЗ 2</a>
-12 октября | Проверочная работа 2 | <a href="tvims2_test2_demo_2023.pdf" title=>Демо-версия</a>
+12 декабря | Проверочная работа 2 | <a href="tvims2_test2_demo_2023.pdf" title=>Демо-версия</a>
