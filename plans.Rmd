@@ -33,7 +33,7 @@ output:
 
 `r  shiny::icon("scroll")` <a href="tvims2_seminar1_2024.pdf" title=>Семинар 1</a>
 
-
+`r  shiny::icon("scroll")` <a href="tvims2_hw1_2024.pdf" title=>Домашнее задание 1</a> (сдавать не нужно, ДЗ для тренировки)
 
 
 
