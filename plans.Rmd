@@ -35,6 +35,11 @@ output:
 
 `r  shiny::icon("scroll")` <a href="tvims2_hw1_2024.pdf" title=>Домашнее задание 1</a> (сдавать не нужно, ДЗ для тренировки)
 
+## Занятие 2
+ 
+Тема: дискретные сл.в. и их распределения, распределение Пуассона
+
+`r  shiny::icon("scroll")` <a href="tvims2_seminar2_2024.pdf" title=>Семинар 2</a>
 
 
 
