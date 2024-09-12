@@ -41,5 +41,8 @@ output:
 
 `r  shiny::icon("scroll")` <a href="tvims2_seminar2_2024.pdf" title=>Семинар 2</a>
 
+`r  shiny::icon("scroll")` <a href="tvims2_hw2_2024.pdf" title=>Домашнее задание 2</a> (сдавать не нужно, ДЗ для тренировки)
+
+
 
 
