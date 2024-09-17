@@ -49,5 +49,5 @@ output:
 
 `r  shiny::icon("scroll")` <a href="tvims2_hw3_2024.pdf" title=>Домашнее задание 3</a> (сдавать не нужно, ДЗ для тренировки)
 
-`r  shiny::icon("readme")` По желанию: просмотреть статьи с применением Пуассоновской регрессии для понимания практического применения распределения Пуассона (см. подпапку <<Распределение Пуассона>> в <a href="https://drive.google.com/drive/folders/14o2pmWw_KsUzGaYspwqJB20ck_Ag_yfW?usp=sharing" title=>общей папке с литературой</a> ) 
+`r  shiny::icon("readme")` По желанию: просмотреть статьи с применением Пуассоновской регрессии для понимания практического применения распределения Пуассона (см. подпапку "Распределение Пуассона" в <a href="https://drive.google.com/drive/folders/14o2pmWw_KsUzGaYspwqJB20ck_Ag_yfW?usp=sharing" title=>общей папке с литературой</a> ) 
 
