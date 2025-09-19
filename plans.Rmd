@@ -45,3 +45,16 @@ output:
 `r  shiny::icon("scroll")` <a href="tvims2_seminar2_2025.pdf" title=>Семинарский лист 2</a>
 
 `r  shiny::icon("scroll")` <a href="tvims2_hw2_2025.pdf" title=>Домашнее задание 2 (для тренировки)</a>
+
+## Занятие 2
+ 
+Тема: повторение, условное мат. ожидание
+
+`r  shiny::icon("desktop")` <a href="tvims2_lab1_.ipynb" title=>Практикум 1</a>
+
+Домашнее задание:
+
+`r  shiny::icon("scroll")` <a href="tvims2_hw3.pdf" title=>Домашнее задание 3 (для тренировки)</a>
+
+Повторить определенные интегралы по видео: `r  shiny::icon("film")` <a href="https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/resources/clip-1-introduction-to-definite-integrals/" title=>Introduction to Definite Integrals</a>  
+
