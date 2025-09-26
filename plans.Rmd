@@ -46,7 +46,7 @@ output:
 
 `r  shiny::icon("scroll")` <a href="tvims2_hw2_2025.pdf" title=>Домашнее задание 2 (для тренировки)</a>
 
-## Занятие 2
+## Занятие 3
  
 Тема: повторение, условное мат. ожидание
 
@@ -58,7 +58,7 @@ output:
 
 Повторить определенные интегралы по видео: `r  shiny::icon("film")` <a href="https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/resources/clip-1-introduction-to-definite-integrals/" title=>Introduction to Definite Integrals</a>  
 
-## Занятие 3
+## Занятие 4
  
 Тема: непрерывные сл.в., функция плотности, экспоненциальное распределение
 
