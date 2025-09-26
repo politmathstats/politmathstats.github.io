@@ -62,6 +62,8 @@ output:
  
 Тема: непрерывные сл.в., функция плотности, экспоненциальное распределение
 
+`r  shiny::icon("scroll")` <a href="tvims2_seminar3.pdf" title=>Семинарский лист 3</a>
+
 Домашнее задание:
 
 `r  shiny::icon("scroll")` <a href="tvims2_hw_1_for_submission_2025.pdf" title=>Домашнее задание (сдаваемое на проверку)</a>
