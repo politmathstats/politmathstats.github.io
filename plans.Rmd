@@ -66,5 +66,5 @@ output:
 
 Домашнее задание:
 
-`r  shiny::icon("scroll")` <a href="tvims2_hw_1_for_submission_2025.pdf" title=>Домашнее задание (сдаваемое на проверку)</a>
+`r  shiny::icon("scroll")` <a href="tvims2_hw1_for_submission_2025.pdf" title=>Домашнее задание (сдаваемое на проверку)</a>
 
