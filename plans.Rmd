@@ -58,3 +58,11 @@ output:
 
 Повторить определенные интегралы по видео: `r  shiny::icon("film")` <a href="https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/resources/clip-1-introduction-to-definite-integrals/" title=>Introduction to Definite Integrals</a>  
 
+## Занятие 3
+ 
+Тема: непрерывные сл.в., функция плотности, экспоненциальное распределение
+
+Домашнее задание:
+
+`r  shiny::icon("scroll")` <a href="tvims2_hw_1_for_submission_2025.pdf" title=>Домашнее задание (сдаваемое на проверку)</a>
+
