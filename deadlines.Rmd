@@ -9,3 +9,4 @@ title: "Важные даты"
 18.11.2025 | контрольная работа |`r  shiny::icon("scroll")` <a href="tvims2_demo_midterm_2025.pdf" title=>Демо-версия</a>; `r  shiny::icon("scroll")` <a href="tvims2_midterm_LO.pdf" title=>Learning Outcomes</a>
 24.11.2025 | ДЗ 2 (сдаваемое) | `r  shiny::icon("scroll")` <a href="tvims2_hw2_submission.pdf" title=>Условие ДЗ 2</a>
 16.12.2025 | ДЗ 3 (сдаваемое) | `r  shiny::icon("scroll")` <a href="tvims2_hw3_submission.pdf" title=>Условие ДЗ 3</a>
+21.12.2025 | бонусное ДЗ 2 (по желанию) | `r  shiny::icon("scroll")` <a href="tvims2_bonus2_2025.pdf" title=>Условие бонусного ДЗ 2</a>
